@@ -604,9 +604,6 @@ This project demonstrates practical experience with:
 
 Computer Science Engineering Student
 
-- GitHub: [Add your GitHub profile URL](https://github.com/)
-- LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
-
 ---
 
 This project was built to practice backend development with Spring Boot, database persistence, DTO design, request validation, and exception handling.
